@@ -30,6 +30,9 @@
          │              │              │
     MSTP-1/2       MSTP-3/4       Plant Network
    Z01–Z08        Z09–Z16       AHU-01 + HP-01
+
+:Distech - EC-Net 4 BAS Supervisor:
+https://docs-be.distech-controls.com/bundle/EC-Net-4_SS/raw/resource/enus/EC-Net%204_SS.pdf
 ```
 
 ### Zone Types
@@ -57,6 +60,28 @@
 | CO₂ Setpoint | 1,000 ppm |
 | Economizer Lockout OAT | 65.0 °F |
 
+:Distech - ECB-VAV:
+https://docs-be.distech-controls.com/bundle/ECB-VAV_SP/raw/resource/enus/ECB-VAV_SP.pdf
+
+:Distech - ECB-CAV:
+https://www.bing.com/ck/a?!&&p=eaf4d8ac7dea220aa84e149c0d42784969a49e5224106d72c459e41af0e4b702JmltdHM9MTc3ODYzMDQwMA&ptn=3&ver=2&hsh=4&fclid=14a2a4eb-fc94-6ec8-06b3-b3bbfdaa6f1d&psq=Distech+ECB-CAV&u=a1aHR0cHM6Ly9kb2NzLWJlLmRpc3RlY2gtY29udHJvbHMuY29tL2J1bmRsZS9FQ0ItU2VyaWVzX0lHL3Jhdy9yZXNvdXJjZS9lbnVzL0VDQiUyMFNlcmllc19JRy5wZGY_c2F2ZV9sb2NhbD10cnVl
+
+:Distech - ECB-PTU:
+https://www.distech-controls.com/products/detail/947846/distech-controls/ecb-ptu-series
+
+:Belimo - LMCB24-SR:
+https://www.belimo.com/us/shop/en_US/p?code=LMCB24-SR
+
+:Belimo - GMB24-MFT:
+https://www.belimo.com/us/shop/en_US/p?code=GMB24-MFT
+
+:Belimo - FSNF230-S:
+https://www.belimo.com/us/shop/en_US/p?code=FSNF230-S+US
+
+:Carrier - 39MN060:
+https://www.carrier.com/marine-offshore/en/worldwide/products/air-treatment-ventilation/air-handling-units/39m/
+
+:Carrier - 30XWH150:
 ---
 
 ## Quick Start
@@ -120,4 +145,4 @@ python hvac_editor.py --file hvac_system.xml --export-bom-csv hvac_bom_export.cs
 
 ## License
 Internal use only — not for redistribution.  
-© 2026 Facility Engineering Group.
+© 2026 Grant Engineering.
